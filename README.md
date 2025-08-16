@@ -10,6 +10,8 @@
 
 ## Запуск
 
+- Скачайте код
+- Установите зависимости командой `pip install -r requirements.txt`
 - Запуск python shell `python manage.py shell`
 - Далее вставить подходящую функцию
 
